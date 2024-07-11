@@ -1,2 +1,2 @@
-# Parallex Website
- Website with Parallex Effect
+# Parallax Website
+ Website with Parallax Effect
